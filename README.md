@@ -1,6 +1,6 @@
 # sentiment_analysis
 
-##description of data below from https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
+## description of data below from https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data
 
 The dataset is comprised of tab-separated files with phrases from the Rotten Tomatoes dataset. The train/test split has been preserved for the purposes of benchmarking, but the sentences have been shuffled from their original order. Each Sentence has been parsed into many phrases by the Stanford parser. Each phrase has a PhraseId. Each sentence has a SentenceId. Phrases that are repeated (such as short/common words) are only included once in the data.
 
