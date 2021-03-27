@@ -13,3 +13,7 @@ The sentiment labels are:
 2 - neutral
 3 - somewhat positive
 4 - positive
+
+## Approach
+
+Using Spark NLP, a BERT sentence embeddings were used without any text preprocessing to classify sentences by sentiment
