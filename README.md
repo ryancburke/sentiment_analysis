@@ -16,4 +16,4 @@ The sentiment labels are:
 
 ## Approach
 
-Using Spark NLP, a BERT sentence embeddings were used without any text preprocessing to classify sentences by sentiment
+Using Spark NLP, BERT sentence embeddings were used without any text preprocessing to classify sentences by sentiment
